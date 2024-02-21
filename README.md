@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🎓 I'm learning Web Development
+
+Thanks for visiting!
+
+☁️🤙💪
+
 <!--
 **fermeridamagni/fermeridamagni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

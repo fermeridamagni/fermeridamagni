@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-🎓 I'm learning Web Development
+🎓 I'm learning Web Development.
+🌐 Page Web: https://magnideveloper.com
+
+Featured projects
+🌐 DICTION AI: https://dictionai.magnideveloper.com
+🌐 Password Generator: https://passwordgenerator.magnideveloper.com
+🌐 Calculator: https://calculator.magnideveloper.com
 
 Thanks for visiting!
 

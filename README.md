@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🎓 I'm a Freelance Full Stack Software Developer!
-- 🌱 I'm currently learning language C and Python.
+- 🌱 I'm currently learning languages C and Python.
 - 🌐 Page Web: https://magnideveloper.com
 
 ##### Featured projects

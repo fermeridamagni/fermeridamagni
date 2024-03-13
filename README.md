@@ -1,8 +1,10 @@
 # Hi there 👋
 
 - 🎓 I'm a Freelance Full Stack Software Developer!
+- 👑 I'm programming in Javascript and others web technologies.
 - 🌱 I'm currently learning languages C and Python.
 - 🌐 Page Web: https://magnideveloper.com
+- 🌐 Porfolio: https://fermeridamagni.me
 
 ##### Featured projects
 

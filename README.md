@@ -1,25 +1,25 @@
-## Hi there, I'm Fer 👋🏻
+### Hi there, I'm Fer 👋🏻
 
-<<<<<<< HEAD
-I'm 2 years old as Freelance Developer based in México, and I love about create digital experiences.
+I'm 2 years old as Freelance Developer based in México, and I love about create digital experiences..
 
-=======
-- 🎓 I'm a Freelance Full Stack Software Developer!
->>>>>>> 3fb303a33a43da39e3338cbbbe61deb52502e002
-- 👑 I'm programming in Javascript and others web technologies.
-- 🌱 I'm currently learning languages C and Python.
-- 🌐 Page Web: https://magnideveloper.com
-- 🌐 Porfolio: https://fermeridamagni.me
+* Check out my [website](https://magnideveloper.com/ "Magni Developer") to learn about my work.
 
-#### Featured projects
+## 📦 ToolBox
 
-- 🌐 DICTION AI: https://dictionai.magnideveloper.com
-  - Is a chat with IA
-- 🌐 Password Generator: https://passwordgenerator.magnideveloper.com
-  - Is a application for create strong passwords
-- 🌐 Calculator: https://calculator.magnideveloper.com
-  - Is a simple calculator
+Develpment: `Javascript` `Typescript` `Python` `C` `C++` `SQL` `HTML` `CSS`
 
-# Contact
+Frontend: `React.js` `Next.js` `Astro.js` `Tailwind.css`
 
-For a quick response, Dm me on [Instagram](https://instagram.com/fermeridamagni "@fermeridamagni")
+Backend: `Nest.js` `Express.js` `Firebase` `AWS Cloud`
+
+Version Control: `Git` `Gitlab`
+
+Testing: `Postman` `Thunder Client`
+
+## 💻 Featured Projects
+
+* Awesome chat with AI called [DICTION AI](https://dictionai.magnideveloper.com/ "DICTION AI").
+
+## 📞 Contact
+
+For a quick response, Dm me on [Instagram](https://instagram.com/fermeridamagni "@fermeridamagni") or message in [Profesional Email](mailto:contacto@magnideveloper.com "contacto@magnideveloper.com").

@@ -1,7 +1,11 @@
 ## Hi there, I'm Fer 👋🏻
 
+<<<<<<< HEAD
 I'm 2 years old as Freelance Developer based in México, and I love about create digital experiences.
 
+=======
+- 🎓 I'm a Freelance Full Stack Software Developer!
+>>>>>>> 3fb303a33a43da39e3338cbbbe61deb52502e002
 - 👑 I'm programming in Javascript and others web technologies.
 - 🌱 I'm currently learning languages C and Python.
 - 🌐 Page Web: https://magnideveloper.com

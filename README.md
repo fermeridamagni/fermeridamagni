@@ -10,7 +10,7 @@ Develpment: `Javascript` `Typescript` `Python` `C` `C++` `SQL` `HTML` `CSS`
 
 Frontend: `React.js` `Next.js` `Astro.js` `Tailwind.css`
 
-Backend: `Nest.js` `Express.js` `Firebase` `AWS Cloud`
+Backend: `Nest.js` `Express.js` `Firebase` `AWS Cloud`  `Microsoft Azure`
 
 Version Control: `Git` `Gitlab`
 
@@ -22,4 +22,4 @@ Testing: `Postman` `Thunder Client`
 
 ## 📞 Contact
 
-For a quick response, DM me on [Instagram](https://instagram.com/fermeridamagni "@fermeridamagni") or message me on my [Profesional Email](mailto:contacto@magnideveloper.com "contacto@magnideveloper.com").
+For a quick response, DM me on [Instagram](https://instagram.com/fermeridamagni "@fermeridamagni") or message me on my [Personal Email](mailto:fermeridamagni@outlook.com "contacto@magnideveloper.com").

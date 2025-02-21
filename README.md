@@ -16,9 +16,6 @@ Version Control: `Git`
 
 Testing: `Postman` `Thunder Client`
 
-// ## 💻 Featured Projects
-// * Awesome chat with AI called [DICTION AI](https://dictionai.magnideveloper.com/ "DICTION AI").
-
 ## 📞 Contact
 
 For a quick response, DM me on [Instagram](https://instagram.com/fermeridamagni "@fermeridamagni") or message me on my [Personal Email](mailto:fermeridamagni@outlook.com "contacto@magnideveloper.com").

@@ -16,11 +16,8 @@ Version Control: `Git`
 
 Testing: `Postman` `Thunder Client`
 
-/*
-  ## 💻 Featured Projects
-
-  * Awesome chat with AI called [DICTION AI](https://dictionai.magnideveloper.com/ "DICTION AI").
-*/
+// ## 💻 Featured Projects
+// * Awesome chat with AI called [DICTION AI](https://dictionai.magnideveloper.com/ "DICTION AI").
 
 ## 📞 Contact
 

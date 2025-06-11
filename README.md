@@ -18,4 +18,4 @@ Testing: `Postman` `Thunder Client`
 
 ## 📞 Contact
 
-For a quick response, DM me on [Instagram](https://instagram.com/fermeridamagni "@fermeridamagni") or message me on my [Personal Email](mailto:fermeridamagni@outlook.com "fermeridamagni@outlook.com").
+For a quick response, DM me on [Instagram](https://instagram.com/fermeridamagni "@fermeridamagni") or message me on my [Personal Email](mailto:contact@magni.dev "contact@magni.dev").

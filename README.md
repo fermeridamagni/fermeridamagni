@@ -2,7 +2,7 @@
 
 I'm 2 years old as Freelance Developer based in México, I love create digital experiences, and discover AI tools.
 
-* Check out my [website](https://magnideveloper.com "Magni Developer") to learn about my work.
+* Check out my [website](https://magni.dev "Magni Development") to learn about my work.
 
 ## 📦 ToolBox
 

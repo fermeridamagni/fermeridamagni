@@ -1,6 +1,6 @@
 ### Hi there, I'm Fer 👋🏻
 
-I'm 2 years old as Freelance Developer based in México, I love create digital experiences, and discover AI tools.
+I'm 3 years as Freelance Developer based in México, I love to create digital experiences for the Web and Mobile devices!
 
 * Check out my [website](https://magni.dev "Magni Development") to learn about my work.
 
@@ -20,4 +20,4 @@ Deploy: `Vercel` `Cloudflare` `Netlify` `Railway`
 
 ## 📞 Contact
 
-For a quick response, DM me on [Instagram](https://instagram.com/fermeridamagni "@fermeridamagni") or message me on my [Personal Email](mailto:contact@magni.dev "contact@magni.dev").
+For a quick response, DM me on [Instagram](https://instagram.com/fermeridamagni "@fermeridamagni") or message me at [contact@magni.dev](mailto:contact@magni.dev "contact@magni.dev").

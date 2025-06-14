@@ -10,7 +10,7 @@ Develpment: `Javascript` `Typescript` `Python` `C` `C++` `SQL` `HTML` `CSS`
 
 Frontend: `React.js` `Next.js` `Astro.js` `Tailwind.css`
 
-Backend: `Express.js` `Firebase` `AWS Cloud`  `Microsoft Azure`
+Backend: `Express.js` `Google Cloud` `AWS Cloud`  `Microsoft Azure`
 
 Version Control: `Git`
 

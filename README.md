@@ -16,6 +16,8 @@ Version Control: `Git`
 
 Testing: `Postman` `Thunder Client`
 
+Deploy: `Vercel` `Cloudflare` `Netlify` `Railway`
+
 ## 📞 Contact
 
 For a quick response, DM me on [Instagram](https://instagram.com/fermeridamagni "@fermeridamagni") or message me on my [Personal Email](mailto:contact@magni.dev "contact@magni.dev").

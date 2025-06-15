@@ -20,4 +20,4 @@ Deploy: `Vercel` `Cloudflare` `Netlify` `Railway`
 
 ## 📞 Contact
 
-For a quick response, DM me on [Instagram](https://instagram.com/fermeridamagni "@fermeridamagni") or message me at [hello@magni.dev](mailto:hello@magni.dev "hello@magni.dev").
+For a quick response, DM me on [Instagram](https://instagram.com/fermeridamagni "@fermeridamagni") or message me by [email](https://links.magni.dev/email).

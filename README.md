@@ -8,15 +8,15 @@ I'm 3 years as Freelance Developer based in México, I love to create digital ex
 
 Develpment: `Javascript` `Typescript` `Python` `C` `C++` `SQL` `HTML` `CSS`
 
-Frontend: `React.js` `Next.js` `Astro.js` `Tailwind.css`
+Frontend: `React.js` `Next.js` `Astro.js` `Tailwind CSS`
 
-Backend: `Express.js` `Google Cloud` `AWS Cloud`  `Microsoft Azure`
+Backend: `Express.js` `Deno`
 
-Version Control: `Git`
+Version Control: `Git` `GitHub`
 
-Testing: `Postman` `Thunder Client`
+Testing: `Vitest` `Postman`
 
-Deploy: `Vercel` `Cloudflare` `Netlify` `Railway`
+Deploy: `Vercel` `Netlify` `Railway` `Cloudflare` `Google Cloud` `AWS Cloud`  `Microsoft Azure`
 
 ## 📞 Contact
 

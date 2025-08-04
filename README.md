@@ -4,8 +4,8 @@ I'm 3 years as Freelance Developer based in México, I love to create digital ex
 
 * Check out my [website](https://magni.dev "Magni Development") to learn about my work.
 * Feel free to contribute:
-  * [magnidev-monorepo](https://github.com/magnidev/mangnidev-monorepo) A set of tools, apps and more.
-  * [orbit-it](https://github.com/fermeridamagni/orbit-it) A tool to manage easily versioning, releasing and changelogs in Repos/Monorepos.
+  * 📦 [Monorepo Tools](https://github.com/magnidev/mangnidev-monorepo). A set of tools, apps and more.
+  * 🚀 [Orbit It](https://github.com/fermeridamagni/orbit-it). A tool to manage easily versioning, releasing and changelogs in Repos/Monorepos.
 
 ## 📦 ToolBox
 

@@ -3,6 +3,9 @@
 I'm 3 years as Freelance Developer based in México, I love to create digital experiences for the Web and Mobile devices!
 
 * Check out my [website](https://magni.dev "Magni Development") to learn about my work.
+* Feel free to contribute:
+  * [magnidev-monorepo](https://github.com/magnidev/mangnidev-monorepo)
+  * [orbit-it](https://github.com/fermeridamagni/orbit-it)
 
 ## 📦 ToolBox
 

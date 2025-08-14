@@ -1,4 +1,4 @@
-### Hi there, I'm Fer 🧑🏻‍💻
+# Hi there, I'm Fer 🧑🏻‍💻
 
 I'm 3 years as Freelance Developer based in México, I love to create digital experiences for the Web and Mobile devices!
 

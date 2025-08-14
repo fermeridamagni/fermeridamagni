@@ -30,4 +30,8 @@ For a quick response, DM me on [Instagram](https://instagram.com/fermeridamagni 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fermeridamagni/fermeridamagni/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fermeridamagni/fermeridamagni/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fermeridamagni/fermeridamagni/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/fermeridamagni/fermeridamagni/output/github-snake.svg" />
+</picture>

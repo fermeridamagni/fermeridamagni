@@ -3,9 +3,11 @@
 I'm 3 years as Freelance Developer based in México, I love to create digital experiences for the Web and Mobile devices!
 
 * Check out my [website](https://magni.dev "Magni Development") to learn about my work.
-* Feel free to contribute:
-  * 🚀 [Orbit It](https://github.com/fermeridamagni/orbit-it). A tool to manage easily versioning, releasing and changelogs in Repos/Monorepos.
-  * 📦 [Monorepo Tools](https://github.com/magnidev/mangnidev-monorepo). A set of tools, apps and more.
+* [cv-es.pdf](cv-es.pdf)
+* [cv-en.pdf](cv-en.pdf)
+
+## 👨‍💻 Projects
+  * 🚀 [Orbit It](https://github.com/fermeridamagni/orbit-it) A comprehensive open-source toolkit for managing and interacting with Git and GitHub, including version control, issue tracking, and repository management.
 
 ## 📦 ToolBox
 

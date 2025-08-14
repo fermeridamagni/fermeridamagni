@@ -28,8 +28,6 @@ Deploy: `Vercel` `Netlify` `Railway` `Cloudflare` `Google Cloud` `AWS Cloud` `Mi
 
 For a quick response, DM me on [Instagram](https://instagram.com/fermeridamagni "@fermeridamagni") or message me at [hello@magni.dev](mailto:hello@magni.dev).
 
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fermeridamagni/fermeridamagni/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fermeridamagni/fermeridamagni/output/github-snake.svg" />

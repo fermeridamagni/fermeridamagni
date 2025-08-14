@@ -12,11 +12,13 @@ I'm 3 years as Freelance Developer based in México, I love to create digital ex
 
 ## 📦 ToolBox
 
-Develpment: `Javascript` `Typescript` `Python` `C` `C++` `SQL` `HTML` `CSS`
+Development: `Javascript` `Typescript` `Python` `C` `C++` `SQL`
 
 Frontend: `React.js` `Next.js` `Astro.js` `Tailwind CSS`
 
-Backend: `Express.js` `Deno`
+Backend: `Node.js` `Express.js` `Deno` `FastAPI`
+
+Database: `MongoDB` `PostgreSQL` `MySQL` `SQLite` `Redis`
 
 Version Control: `Git` `GitHub`
 

@@ -1,4 +1,4 @@
-### Hi there, I'm Fer 👋🏻
+### Hi there, I'm Fer 🧑🏻‍💻
 
 I'm 3 years as Freelance Developer based in México, I love to create digital experiences for the Web and Mobile devices!
 
@@ -6,7 +6,7 @@ I'm 3 years as Freelance Developer based in México, I love to create digital ex
 * [cv-es.pdf](cv-es.pdf)
 * [cv-en.pdf](cv-en.pdf)
 
-## 🧑🏻‍💻 Projects
+## 💻 Projects
   * 🚀 [Orbit It](https://github.com/fermeridamagni/orbit-it) A comprehensive open-source toolkit for managing and interacting with Git and GitHub, including version control, issue tracking, and repository management.
 
 ## 📦 ToolBox

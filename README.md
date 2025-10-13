@@ -1,14 +1,12 @@
 # Hi there, I'm Fer 🧑🏻‍💻
 
-I'm 3 years as Freelance Developer based in México, I love to create digital experiences for the Web and Mobile devices!
+I'm Fer Merida, a Freelance Developer with 3 years of experience building web, mobile, and desktop applications. I specialize in creating efficient, scalable, and user-friendly solutions that meet client needs. Check out my [website](https://magni.dev "Magni Development") to learn about my work and services.
 
-- Check out my [website](https://magni.dev "Magni Development") to learn about my work.
-- [cv-es.pdf](cv-es.pdf)
-- [cv-en.pdf](cv-en.pdf)
+## 💻 Recent Projects
 
-## 💻 Projects
+- 🚀 [Orbit It](https://github.com/fermeridamagni/orbit-it) • A comprehensive open-source toolkit for managing and interacting with Git and GitHub, including version control, issue tracking, and repository management.
 
-- 🚀 [Orbit It](https://github.com/fermeridamagni/orbit-it) A comprehensive open-source toolkit for managing and interacting with Git and GitHub, including version control, issue tracking, and repository management.
+- 🛠️ [Circuit Simulator](https://github.com/fermeridamagni/circuit-simulator) • A web-based application for simulating electronic circuits, allowing users to design, test, and visualize circuit behavior in real-time.
 
 ## 📦 ToolBox
 

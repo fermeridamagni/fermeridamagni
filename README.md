@@ -6,7 +6,7 @@ I'm Fer Merida, a Freelance Developer with 3 years of experience building web, m
 
 - 🚀 [Orbit It](https://github.com/fermeridamagni/orbit-it) • A comprehensive open-source toolkit for managing and interacting with Git and GitHub, including version control, issue tracking, and repository management.
 
-- 🏫 [School](https://github.com/fermeridamagni/school) • A collection of educational materials and resources for various subjects and courses related to all my school work.
+- 🏫 [School Resources](https://github.com/fermeridamagni/school-resources) • A collection of educational materials and resources for various subjects and courses related to all my school work.
 
 - ⚙️ [Arduino Minimal Ultrasonic](https://github.com/fermeridamagni/arduino-minimal-ultrasonic) • A minimalistic Arduino library for ultrasonic distance measurement, providing an easy-to-use interface for beginners and advanced users alike.
 

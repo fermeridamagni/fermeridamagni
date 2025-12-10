@@ -10,6 +10,8 @@ I'm Fer Merida, a Freelance Developer with 3 years of experience building web, m
 
 - ⚙️ [Arduino Minimal Ultrasonic](https://github.com/fermeridamagni/arduino-minimal-ultrasonic) • A minimalistic Arduino library for ultrasonic distance measurement, providing an easy-to-use interface for beginners and advanced users alike.
 
+- 🏫 [Classroom Project 2025-2](https://github.com/fermeridamagni/classroom-project-2025-2) • An automated door access control system for educational facilities. Features a mobile app for digital credentials and a Next.js web platform for managing permissions to labs and classrooms.
+
 - 🛠️ [Circuit Simulator](https://github.com/fermeridamagni/circuit-simulator) • A web-based application for simulating electronic circuits, allowing users to design, test, and visualize circuit behavior in real-time.
 
 ## 📦 ToolBox

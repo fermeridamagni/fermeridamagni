@@ -2,11 +2,13 @@
 
 I'm Fer Merida, a Freelance Developer with 3 years of experience building web, mobile, and desktop applications. I specialize in creating efficient, scalable, and user-friendly solutions that meet client needs. Check out my [website](https://magni.dev "Magni Development") to learn about my work and services.
 
-## 💻 Projects
+## 💻 Recent Projects
 
 - 🏫 [School Resources](https://github.com/fermeridamagni/school-resources) • A collection of educational materials and resources for various subjects and courses related to all my school work.
 
 - ⚙️ [Arduino Minimal Ultrasonic](https://github.com/fermeridamagni/arduino-minimal-ultrasonic) • A minimalistic Arduino library for ultrasonic distance measurement, providing an easy-to-use interface for beginners and advanced users alike.
+
+- ❄️ [Astro Snowfall](https://github.com/fermeridamagni/astro-snowfall) • A lightweight, performant canvas-based snowfall background animation component built with Astro and TypeScript.
 
 ## 📦 ToolBox
 

@@ -12,7 +12,7 @@ I'm Fer Merida, a Freelance Developer with 3 years of experience building web, m
 
 ## 📦 ToolBox
 
-Development: `Javascript` `Typescript` `Python` `C` `C++` `SQL`
+Development: `Javascript` `Typescript` `Python` `Swift` `C` `C++` `SQL`
 
 Frontend: `React.js` `Next.js` `Astro.js` `Tailwind CSS`
 

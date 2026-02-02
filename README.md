@@ -4,6 +4,8 @@ I'm Fer Merida, a Freelance Developer with 3 years of experience building web, m
 
 ## 💻 Recent Projects
 
+- 🚀 [Magni Agent](https://magni.click) • The all-in-one platform for building, deploying, and managing intelligent agents with powerful automation and seamless integrations.
+
 - 🏫 [School Resources](https://github.com/fermeridamagni/school-resources) • A collection of educational materials and resources for various subjects and courses related to all my school work.
 
 - ⚙️ [Arduino Minimal Ultrasonic](https://github.com/fermeridamagni/arduino-minimal-ultrasonic) • A minimalistic Arduino library for ultrasonic distance measurement, providing an easy-to-use interface for beginners and advanced users alike.

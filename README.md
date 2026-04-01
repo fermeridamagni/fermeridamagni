@@ -12,6 +12,8 @@ I'm Fer Merida, a Freelance Developer with 3 years of experience building web, m
 
 - ❄️ [Astro Snowfall](https://github.com/fermeridamagni/astro-snowfall) • A lightweight, performant canvas-based snowfall background animation component built with Astro and TypeScript.
 
+- ⚫️ [Fluent OLED](https://github.com/fermeridamagni/fluent-oled) - A pure black, minimalist VSCODE theme designed for OLED displays. Zero distractions, GitHub syntax highlighting.
+
 ## 📦 ToolBox
 
 Development: `Javascript` `Typescript` `Python` `Swift` `C` `C++` `SQL`

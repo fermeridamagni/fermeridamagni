@@ -1,41 +1,41 @@
 # Hi there, I'm Fer 🧑🏻‍💻
 
-I'm Fer Merida, a Freelance Developer with 3 years of experience building web, mobile, and desktop applications. I specialize in creating efficient, scalable, and user-friendly solutions that meet client needs. Check out my [website](https://magni.dev "Magni Development") to learn about my work and services.
+**Full Stack Developer & Founder of [@magnidev](https://github.com/magnidev)**
 
-## 💻 Recent Projects
+I am a Freelance Developer with over 3 years of experience building scalable web, mobile, and desktop applications. I specialize in delivering efficient, maintainable, and user-centric solutions. You can explore my complete portfolio and services on my [website](https://magni.dev).
 
-- 🚀 [Magni Agent](https://magni.click) • The all-in-one platform for building, deploying, and managing intelligent agents with powerful automation and seamless integrations.
+### Featured Projects
 
-- 🏫 [School Resources](https://github.com/fermeridamagni/school-resources) • A collection of educational materials and resources for various subjects and courses related to all my school work.
+* **[Magni Agent](https://magni.click)** • An all-in-one platform for building, deploying, and managing intelligent agents with powerful automation.
 
-- ⚙️ [Arduino Minimal Ultrasonic](https://github.com/fermeridamagni/arduino-minimal-ultrasonic) • A minimalistic Arduino library for ultrasonic distance measurement, providing an easy-to-use interface for beginners and advanced users alike.
+* **[Astro Snowfall](https://github.com/fermeridamagni/astro-snowfall)** • A lightweight, performant canvas-based snowfall background animation component built with Astro.
 
-- ❄️ [Astro Snowfall](https://github.com/fermeridamagni/astro-snowfall) • A lightweight, performant canvas-based snowfall background animation component built with Astro and TypeScript.
+* **[Fluent OLED](https://github.com/fermeridamagni/fluent-oled)** • A pure black, minimalist VS Code theme designed specifically for OLED displays.
 
-- ⚫️ [Fluent OLED](https://github.com/fermeridamagni/fluent-oled) - A pure black, minimalist VSCODE theme designed for OLED displays. Zero distractions, GitHub syntax highlighting.
+* **[Arduino Minimal Ultrasonic](https://github.com/fermeridamagni/arduino-minimal-ultrasonic)** • A minimalistic and efficient Arduino library for ultrasonic distance measurement.
 
-## 📦 ToolBox
+* **[School Resources](https://github.com/fermeridamagni/school-resources)** • An open-source collection of educational materials and course resources.
 
-Development: `Javascript` `Typescript` `Python` `Swift` `C` `C++` `SQL`
+### Tech Stack
 
-Frontend: `React.js` `Next.js` `Astro.js` `Tailwind CSS`
+**Languages**<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-18181B?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-18181B?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-18181B?style=flat-square&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-18181B?style=flat-square&logo=swift&logoColor=white) ![C++](https://img.shields.io/badge/-C++-18181B?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-18181B?style=flat-square&logo=sqlite&logoColor=white)
 
-Backend: `Node.js` `Express.js` `Deno` `FastAPI`
+**Frontend**<br>
+![React](https://img.shields.io/badge/-React-18181B?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-18181B?style=flat-square&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-18181B?style=flat-square&logo=astro&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Database: `MongoDB` `PostgreSQL` `MySQL` `SQLite` `Redis`
+**Backend & Database**<br>
+![Node.js](https://img.shields.io/badge/-Node.js-18181B?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-18181B?style=flat-square&logo=express&logoColor=white) ![Deno](https://img.shields.io/badge/-Deno-18181B?style=flat-square&logo=deno&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-18181B?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-18181B?style=flat-square&logo=redis&logoColor=white)
 
-Version Control: `Git` `GitHub`
+**Infrastructure & Tools**<br>
+![Git](https://img.shields.io/badge/-Git-18181B?style=flat-square&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-18181B?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-18181B?style=flat-square&logo=netlify&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-18181B?style=flat-square&logo=cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-18181B?style=flat-square&logo=amazon-aws&logoColor=white)
 
-Testing: `Vitest` `Postman`
+<br>
 
-Deploy: `Vercel` `Netlify` `Railway` `Cloudflare` `Google Cloud` `AWS Cloud` `Microsoft Azure`
-
-## 📞 Contact
-
-For a quick response, DM me on [Instagram](https://instagram.com/fermeridamagni "@fermeridamagni") or message me at [hello@magni.dev](mailto:hello@magni.dev).
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fermeridamagni/fermeridamagni/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fermeridamagni/fermeridamagni/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/fermeridamagni/fermeridamagni/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fermeridamagni/fermeridamagni/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fermeridamagni/fermeridamagni/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/fermeridamagni/fermeridamagni/output/github-snake.svg" />
+  </picture>
+</div>

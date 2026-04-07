@@ -8,6 +8,8 @@ I am a Freelance Developer with over 3 years of experience building scalable web
 
 * **[Magni Agent](https://magni.click)** • An all-in-one platform for building, deploying, and managing intelligent agents with powerful automation.
 
+* **[Arduino Unified](https://github.com/fermeridamagni/arduino-unified)** • A comprehensive VS Code extension for Arduino development featuring zero-configuration setup, AI-powered assistance via GitHub Copilot, real-time board discovery, and modern developer experience.
+
 * **[Astro Snowfall](https://github.com/fermeridamagni/astro-snowfall)** • A lightweight, performant canvas-based snowfall background animation component built with Astro.
 
 * **[Fluent OLED](https://github.com/fermeridamagni/fluent-oled)** • A pure black, minimalist VS Code theme designed specifically for OLED displays.

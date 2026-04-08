@@ -16,8 +16,6 @@ I am a Freelance Developer with over 3 years of experience building scalable web
 
 * **[Arduino Minimal Ultrasonic](https://github.com/fermeridamagni/arduino-minimal-ultrasonic)** • A minimalistic and efficient Arduino library for ultrasonic distance measurement.
 
-* **[School Resources](https://github.com/fermeridamagni/school-resources)** • An open-source collection of educational materials and course resources.
-
 ### Tech Stack
 
 **Languages**<br>

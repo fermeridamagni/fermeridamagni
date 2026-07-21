@@ -16,13 +16,13 @@ I am a Freelance Developer with over 3 years of experience building scalable web
 
 * **[Arduino Minimal Ultrasonic](https://github.com/fermeridamagni/arduino-minimal-ultrasonic)** • A minimalistic and efficient Arduino library for ultrasonic distance measurement.
 
-### Tech Stack
+### Preferred Stack
 
 **Languages**<br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-18181B?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-18181B?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-18181B?style=flat-square&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-18181B?style=flat-square&logo=swift&logoColor=white) ![C++](https://img.shields.io/badge/-C++-18181B?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-18181B?style=flat-square&logo=sqlite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-18181B?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-18181B?style=flat-square&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-18181B?style=flat-square&logo=swift&logoColor=white) ![C++](https://img.shields.io/badge/-C++-18181B?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-18181B?style=flat-square&logo=sqlite&logoColor=white)
 
 **Frontend**<br>
-![React](https://img.shields.io/badge/-React-18181B?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-18181B?style=flat-square&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-18181B?style=flat-square&logo=astro&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-18181B?style=flat-square&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/-React-18181B?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-18181B?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend & Database**<br>
 ![Node.js](https://img.shields.io/badge/-Node.js-18181B?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-18181B?style=flat-square&logo=express&logoColor=white) ![Deno](https://img.shields.io/badge/-Deno-18181B?style=flat-square&logo=deno&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-18181B?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-18181B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-18181B?style=flat-square&logo=redis&logoColor=white)
